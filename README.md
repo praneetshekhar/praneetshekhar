@@ -2,7 +2,7 @@
 
 🚀 **Data Engineering | Entrepreneurship | AI | Finance**
 
-🔹 Experienced in **Data Engineering, Big Data, and Cloud Technologies**.
+🔹 Experienced in **Data Engineering, Big Data, and Cloud Technologies**.  
 🔹 Passionate about **Tech & Business**.
 
 ## 🏆 Key Expertise
