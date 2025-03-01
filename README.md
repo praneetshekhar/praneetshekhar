@@ -13,7 +13,7 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/praneetshekhar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/praneetshekhar)  
 [praneetshekhar.github.io](https://praneetshekhar.github.io/)
 
 🚀 **Always open to collaborations!**
