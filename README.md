@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm [Praneet Shekhar] 👋
 
-<!--
-**praneetshekhar/praneetshekhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Data Engineering | Entrepreneurship | AI | Finance**
 
-Here are some ideas to get you started:
+🔹 Experienced in **Data Engineering, Big Data, and Cloud Technologies**.
+🔹 Passionate about **Tech & Business**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Key Expertise
+
+- **Data Engineering:** Apache Spark, Airflow, Kafka, AutoSys, AWS Redshift
+- **Programming:** Python, SQL, Shell Scripting, Java
+- **Visualization:** Tableau, PowerBI
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/praneetshekhar)
+[praneetshekhar.github.io](https://praneetshekhar.github.io/)
+
+🚀 **Always open to collaborations!**
